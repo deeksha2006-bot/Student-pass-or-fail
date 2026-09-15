@@ -1,6 +1,6 @@
 Student Placement Eligibility Prediction
 
-📌 Project Overview
+Project Overview
 
 This project predicts whether a student is eligible for placement using Machine Learning.
 
