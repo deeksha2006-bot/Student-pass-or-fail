@@ -4,11 +4,11 @@ Project Overview
 
 This project predicts whether a student is eligible for placement using Machine Learning.
 
-🎯 Objective
+ Objective
 
 Build a binary classification model to predict student placement eligibility based on academic and experience-related factors.
 
-📊 Dataset
+Dataset
 
 - 1,000 student records
 - 6 input features
